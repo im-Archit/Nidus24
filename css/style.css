@@ -14,14 +14,14 @@ body {
 }
 
 a {
-  color: #50d8af;
+  color: #0073e8;
   transition: 0.5s;
 }
 
 a:hover,
 a:active,
 a:focus {
-  color: #51d8af;
+  color: #2d77c2;
   outline: none;
   text-decoration: none;
 }
@@ -47,7 +47,7 @@ h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #50d8af;
+  background: #0073e8;
   color: #fff;
   padding: 6px 12px 9px 12px;
   font-size: 16px;
@@ -64,7 +64,7 @@ h6 {
 }
 
 .back-to-top:focus {
-  background: #50d8af;
+  background: #1261af;
   color: #fff;
   outline: none;
 }
@@ -175,11 +175,11 @@ body {
 }
 
 #topbar .contact-info a:hover {
-  color: #50d8af;
+  color: #448ee8;
 }
 
 #topbar .contact-info i {
-  color: #50d8af;
+  color: #448ee8;
   padding: 4px;
 }
 
@@ -198,7 +198,7 @@ body {
 }
 
 #topbar .social-links a:hover {
-  color: #50d8af;
+  color: #448ee8;
 }
 
 #topbar .social-links a:first-child {
@@ -233,7 +233,7 @@ body {
 }
 
 #header #logo h1 a span {
-  color: #50d8af;
+  color: #448ee8;
 }
 
 #header #logo img {
@@ -291,7 +291,7 @@ body {
 }
 
 #intro .intro-content h2 span {
-  color: #50d8af;
+  color: #448ee8;
   text-decoration: underline;
 }
 
@@ -326,13 +326,13 @@ body {
 }
 
 #intro .intro-content .btn-projects {
-  background: #50d8af;
-  border: 2px solid #50d8af;
+  background: #448ee8;
+  border: 2px solid #2365b6;
 }
 
 #intro .intro-content .btn-projects:hover {
   background: none;
-  color: #50d8af;
+  color: #448ee8;
 }
 
 #intro #intro-carousel {
@@ -448,7 +448,7 @@ body {
 
 .nav-menu li:hover>a,
 .nav-menu>.menu-active>a {
-  color: #50d8af;
+  color: #448ee8;
 }
 
 .nav-menu>li {
@@ -476,7 +476,7 @@ body {
 }
 
 .nav-menu ul li:hover>a {
-  color: #50d8af;
+  color: #448ee8;
 }
 
 .nav-menu ul ul {
@@ -563,11 +563,11 @@ body {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-  color: #50d8af;
+  color: #448ee8;
 }
 
 #mobile-nav ul .menu-item-active {
-  color: #50d8af;
+  color: #448ee8;
 }
 
 #mobile-body-overly {
@@ -618,7 +618,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   display: block;
   width: 50px;
   height: 3px;
-  background: #50d8af;
+  background: #448ee8;
   bottom: 0;
   left: 0;
 }
@@ -680,7 +680,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #about .content i {
   font-size: 20px;
   padding-right: 4px;
-  color: #50d8af;
+  color: #448ee8;
 }
 
 #about .content ul {
@@ -727,7 +727,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #services .box .icon i:before {
   background: #0c2e8a;
-  background: linear-gradient(45deg, #50d8af 0%, #a3ebd5 100%);
+  background: linear-gradient(45deg, #448ee8 0%, #58adfc 100%);
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -802,7 +802,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #clients .owl-dot.active {
-  background-color: #50d8af;
+  background-color: #448ee8;
 }
 
 /* Our Portfolio Section
@@ -942,7 +942,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #testimonials .owl-dot.active {
-  background-color: #50d8af;
+  background-color: #448ee8;
 }
 
 /* Call To Action Section
@@ -986,8 +986,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #call-to-action .cta-btn:hover {
-  background: #50d8af;
-  border: 3px solid #50d8af;
+  background: #448ee8;
+  border: 3px solid #448ee8;
 }
 
 /* Our Team Section
@@ -1062,7 +1062,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 48px;
   display: inline-block;
   margin-bottom: 10px;
-  color: #50d8af;
+  color: #448ee8;
 }
 
 #contact .contact-info address,
@@ -1084,7 +1084,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .contact-info a:hover {
-  color: #50d8af;
+  color: #448ee8;
 }
 
 #contact .contact-address,
@@ -1121,8 +1121,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form #sendmessage {
-  color: #50d8af;
-  border: 1px solid #50d8af;
+  color: #448ee8;
+  border: 1px solid #448ee8;
   display: none;
   text-align: center;
   padding: 15px;
@@ -1163,7 +1163,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"] {
-  background: #50d8af;
+  background: #0073e8;
   border: 0;
   border-radius: 3px;
   padding: 10px 30px;
@@ -1173,7 +1173,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"]:hover {
-  background: #2dc899;
+  background: #054c92;
 }
 
 /*--------------------------------------------------------------
